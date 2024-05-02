@@ -34,8 +34,6 @@ footer {
     text-align: center;
 }
 
-
-
 iframe {
     margin-left: 25%;
     margin-right: 25%;
@@ -67,4 +65,8 @@ h1 {
 
 h2 {
     margin-top: 2em;
+}
+
+ol li {
+    font-weight: bold;
 }
