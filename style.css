@@ -1,0 +1,70 @@
+body {
+    font-family: "Lato", sans-serif;
+}
+
+#logo {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#subtitle {
+    text-align: center;
+    background-color: #fdfbf1;
+    height: 2.5rem;
+    padding-top: 1.4em;
+    margin-top: 0;
+    font-size: 0.8em;
+}
+
+
+#bold-sub {
+    font-weight: bold;
+}
+
+#subtitle-container {
+    border-top: 1.5px solid #fee8af;
+}
+
+.list-title {
+    font-weight: bold;
+}
+
+footer {
+    text-align: center;
+}
+
+
+
+iframe {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+main {
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+hr {
+    color: #c4f3f2;
+}
+
+.feature {
+    border-left: 2.5px solid #fee8af;
+    padding-left: 1em;
+}
+
+h3 {
+    color: red;
+    font-weight: 300;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    margin-top: 2em;
+}
