@@ -1,4 +1,4 @@
-# U1W1D3
+# Epicode - U1W1D3
 
 Il tuo compito sarà creare una vera webpage a partire dall'immagine del mockup allegato.
 Troverai tutti gli asset necessari in una cartella chiamata "assets".
